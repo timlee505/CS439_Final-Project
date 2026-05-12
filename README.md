@@ -37,4 +37,4 @@ This project helps turn raw exercise data into clear visual insights. It shows h
 
 ## Team
 
-Timothy Lee
+Timothy Lee - tjl143
