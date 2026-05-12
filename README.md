@@ -34,3 +34,7 @@ The analysis showed that calories burned depends on more than one factor. Workou
 ## Conclusion
 
 This project helps turn raw exercise data into clear visual insights. It shows how Python can be used to explore health and fitness data and better understand patterns in workout behavior.
+
+## Team
+
+Timothy Lee
